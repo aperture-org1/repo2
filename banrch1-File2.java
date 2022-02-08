@@ -1,1 +1,3 @@
-Sample java  File
+Public  static void main(String[] args) {
+
+}
