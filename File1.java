@@ -1,2 +1,3 @@
-public sttatic void  main()  {
+public static void  main()  {
+  //Added new line
 }
