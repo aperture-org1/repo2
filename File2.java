@@ -1,3 +1,5 @@
 public static void  main()  {
-  //Added new line
+   public static void print() {
+	   System.out.println("Hello World!!");
+		}
 }
