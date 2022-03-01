@@ -6,7 +6,7 @@ public class BinaryConverter {
             System.out.println(i + ": " + toBinary(i));
             System.out.println(i);
             //always another way
-            System.out.println(i + ": " + Integer.toBinaryString(i));
+            System.out.println(i + ": Converted to Binary is = " + Integer.toBinaryString(i));
         }
     }
     
