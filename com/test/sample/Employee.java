@@ -2,6 +2,9 @@ public class Employee {
 private String name;  
 private String id;  
 private double sal;  
+
+//Added sample commit
+
 public String getName() {  
     return name;  
 }  
