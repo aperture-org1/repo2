@@ -23,6 +23,9 @@ public class GitHubMember {
 	@JsonProperty("id")
 	long id;
 
+	@JsonProperty("id")
+	long id;
+
 	@JsonProperty("type")
 	String type;
 

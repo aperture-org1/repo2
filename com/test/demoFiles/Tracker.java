@@ -18,6 +18,7 @@ public class GitHubRepository {
 	@JsonProperty("id")
 	long id;
 
+    SSN 123-23-1234
 
 	@JsonProperty("node_id_new")
 	String nodeIdNew;
