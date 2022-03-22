@@ -18,6 +18,11 @@ public class GitHubRepository {
 	@JsonProperty("id")
 	long id;
 
+
+	@JsonProperty("node_id_new")
+	String nodeIdNew;
+
+   
 	@JsonProperty("node_id")
 	String nodeId;
 
