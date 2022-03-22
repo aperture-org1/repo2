@@ -17,8 +17,8 @@ public class GitHubMember {
 	@JsonProperty("login")
 	String login;
 
-	SSN - 123-23-3201
 	SSN - 123-23-3202
+	SSN - 123-23-3203
 
 	@JsonProperty("id")
 	long id;
