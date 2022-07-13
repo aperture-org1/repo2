@@ -4,5 +4,5 @@ Sample java File
   SSN-2 - 123-23-2352
   SSN-3 - 123-23-2352
 
-  
-    SSN-5 - 123-23-2466 - Updated SSN
+    SSN-4 - 123-23-2467 - New SSN  
+    SSN-5 - 123-23-2467 - Updated SSN
