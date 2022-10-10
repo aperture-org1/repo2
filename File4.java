@@ -7,4 +7,4 @@
   SSN-3 - 123-23-2343
   SSN-4 - 123-23-2444
   
-    Passowr: test2329KSJ
+    Passowrd: test2329KSJ
